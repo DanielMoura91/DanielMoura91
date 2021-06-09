@@ -24,5 +24,5 @@ I decided to continue in the programming area.
 
 💻 My workspace
 
-[<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />]() [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]() [<img src="https://img.shields.io/badge/Intel-Xeon_E5_2670-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]() [<img src="https://img.shields.io/badge/Intel-Xeon_E5_2670-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/RAM-16GB-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]() [<img src="https://img.shields.io/badge/NVIDIA-GT_710-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
